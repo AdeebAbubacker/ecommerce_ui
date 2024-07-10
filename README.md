@@ -1,4 +1,4 @@
-# grocery_app_rrr
+# grocery_app_ui
 
 A new Flutter project.
 
